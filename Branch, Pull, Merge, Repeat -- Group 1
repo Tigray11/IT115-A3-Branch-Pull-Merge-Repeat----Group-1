@@ -12,3 +12,9 @@ For instance, optical character recognition is frequently excluded from things c
 In general, AI systems work by ingesting large amounts of labeled training data, analyzing the data for correlations and patterns, and using these patterns to 
 make predictions about future states. In this way, a chatbot that is fed examples of text chats can learn to produce lifelike exchanges with people, or an image 
 recognition tool can learn to identify and describe objects in images by reviewing millions of examples.
+
+The various sub-fields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include reasoning, 
+knowledge representation, planning, learning, natural language processing, perception, and the ability to move and manipulate objects.[c] General intelligence 
+(the ability to solve an arbitrary problem) is among the field's long-term goals.[12] To solve these problems, AI researchers have adapted and integrated a wide range 
+of problem-solving techniques – including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, probability 
+and economics. AI also draws upon computer science, psychology, linguistics, philosophy, and many other fields.
